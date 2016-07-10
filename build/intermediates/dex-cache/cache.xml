@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Pranav/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d4aaf33a581ab050b0781fc6ed01ccd2a2a93148.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_91c4b0eaa67f46eb7f3d332c5d64c53e39a23777.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_628c82759054b3b83f303f7539a7e232cdf70925.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_42329e0f3c96d06bb24007e3b0b3d59cc24aa953.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_6d497d5bf6c8c1868d78d0d2ef1aa73af55a961e.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_410524240244967fa81b437d28a8cb830b69c111.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_c12fda140e035ffbf87fc946f416b8c13faee6ce.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_c33d316012cd38bdc5478144113a1f619aa7e631.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.4.0_55482836e3e382c0cb3accf778fe99587476632e.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.4.0_a822dbcedeca4b3153fa0d3bbdb40fbdc90c5bdf.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_33b233352dbd64d3a31f194631baea6c64fd9136.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_4723fc0964738f2066d54f92e7775bce1eb2dfd0.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_a69e3870854b12dee88e27fd2b290043674c5b7a.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_7b3624dcf2b7b40ccf37eeeac6ac20aff3982512.jar" />
+    </item>
+    <item
+        jar="/Users/Pranav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/Pranav/Desktop/udacity courses/project5/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_ced0d5ac31e555893666f908df7bb0e7e11c3564.jar" />
+    </item>
+
+</items>

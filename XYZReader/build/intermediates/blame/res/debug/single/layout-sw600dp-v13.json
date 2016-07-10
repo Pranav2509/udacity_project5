@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Pranav/Desktop/udacity courses/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/Pranav/Desktop/udacity courses/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/Pranav/Desktop/udacity courses/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-sw600dp-v13/layout_snackbar.xml",
+        "source": "/Users/Pranav/Desktop/udacity courses/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout-sw600dp/layout_snackbar.xml"
+    }
+]
